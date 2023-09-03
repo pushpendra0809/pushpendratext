@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pushpendratext/static/css/main.e6c13ad2.css",
+    "main.js": "/pushpendratext/static/js/main.e4393d6f.js",
+    "static/js/787.719ec76d.chunk.js": "/pushpendratext/static/js/787.719ec76d.chunk.js",
+    "index.html": "/pushpendratext/index.html",
+    "main.e6c13ad2.css.map": "/pushpendratext/static/css/main.e6c13ad2.css.map",
+    "main.e4393d6f.js.map": "/pushpendratext/static/js/main.e4393d6f.js.map",
+    "787.719ec76d.chunk.js.map": "/pushpendratext/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e4393d6f.js"
+  ]
+}
